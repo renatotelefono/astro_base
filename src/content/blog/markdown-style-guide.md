@@ -2,7 +2,7 @@
 title: 'entra qui e vedrai'
 description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
 pubDate: 'Jun 31 2025'
-heroImage: '../../assets/imm_5.jpg'
+heroImage: '../../assets/imm_4.jpg'
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
