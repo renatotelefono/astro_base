@@ -1,7 +1,7 @@
 ---
 title: 'Primo post'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+pubDate: 'Jun 30 2025'
 heroImage: '../../assets/imm_4.jpg'
 ---
 
