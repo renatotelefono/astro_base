@@ -2,7 +2,7 @@
 title: 'Primo post'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 08 2022'
-heroImage: '../../assets/imm_3.png'
+heroImage: '../../assets/imm_4.jpg'
 ---
 
 prova automatismo
